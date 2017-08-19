@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>plz_5stellig_OGRGeoJSON_Polygon_plz_57581</name>
+  <Placemark>
+	<Style><LineStyle><color>ff61c365</color><width>1</width></LineStyle><PolyStyle><color>7f61c365</color><fill>1</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>7.789144,50.8421326 7.7974028,50.8438526 7.8063531,50.8433862 7.8128131,50.8424197 7.8280978,50.8353435 7.8328826,50.8247099 7.8328266,50.8230214 7.8351175,50.8172238 7.8330257,50.8118002 7.8263616,50.8059487 7.7898214,50.8099457 7.7692896,50.8062487 7.7645637,50.811416 7.7645778,50.8116504 7.761469,50.8139038 7.7606759,50.8150292 7.760682,50.8154983 7.7602792,50.8155975 7.7598958,50.8161697 7.7626501,50.8206596 7.7737259,50.8300743 7.7802919,50.8333855 7.7892901,50.8342857 7.79238,50.8368683 7.7906707,50.8402176 7.789144,50.8421326</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
